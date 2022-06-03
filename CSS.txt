@@ -1,0 +1,6 @@
+PARA CRIAR UM CSS ,LOGO NO HTML COLOQUE ISSO 
+
+   <link rel="stylesheet" href="(aqui você colocara a .CSS QUE CRIOU)" />
+
+
+NO ARQUIVO ACIMA A UM PROJETO QUE TEM CSS TENTE MUDAR PARA VER O QUE OCORRE

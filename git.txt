@@ -1,0 +1,25 @@
+VAMOS COMEÇAR:
+
+primeiro crie sua conta no GITHUB e inicie:
+
+- clique no seu user e va em : NEW REPOSITORY 
+
+ va em NEW e crie ele e guarde a URL que aparecer.
+
+- Apos isso escolha seu arquivo com o git e clique botao direito e clique em GIT bash here
+
+- Para começar escreva dentro do CMD:
+
+git init
+
+git branch -M main
+
+git remote add origin (AQUI VOCÊ COLOCA A URL )
+
+git add .
+
+git commit -m "first commit"
+
+git push origin main
+ 
+ Assim você tera adicionado um arquivo no seu GITHUB
